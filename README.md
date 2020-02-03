@@ -16,5 +16,7 @@ Roughly 2.5 weeks
 # Install
 You need a webserver in order to run (Apache, Nginx... etc)
 
+Then just copy the source code into the root folder and the game will be available
+
 # Contact
 bolong.v@gmail.com
